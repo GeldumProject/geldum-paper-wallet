@@ -3,6 +3,7 @@
 Basic Online / Offline Paper Wallet Generator
 
 Online:
+
 Upload to your server
 Rename as index.html
 Make it work
