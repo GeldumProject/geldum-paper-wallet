@@ -2,18 +2,21 @@
 
 Basic Online / Offline Paper Wallet Generator
 
-Online:
+# Online
 
-Upload to your server
-Rename as index.html
-Make it work
+  - Upload to your server
+  - Rename as index.html
+  - Visit http://yourip
 
-Offline:
-Download to your computer
-Disconnect from internet
-Create your wallet
+# Offline
+
+  - Download to your computer
+  - Disconnect from internet
+  - Open file
+  - Create wallet
+  
+### More info
 
 
-More info:
-www.geldumwallet.org
-www.geldum.org
+* [www.geldumwallet.org] - Official Wallet Generator
+* [www.geldum.org] - Official Website
